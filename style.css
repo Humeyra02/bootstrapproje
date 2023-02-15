@@ -1,0 +1,50 @@
+nav{
+    font-family: serif;
+}
+
+h1 {
+    font-family: serif;
+    color: rgb(2, 2, 34);
+    margin-top: 30px;
+}
+
+section{
+    font-family: serif;
+    
+}
+
+.hakkimizda{
+    background-color: rgb(247, 251, 254);
+}
+
+.ayrac{
+    border: none;
+    border-top: 3px solid rgb(0, 0, 0);
+    max-width: 800px;
+    margin: 25px auto;
+}
+
+.ibeyaz{
+    color: #efc9ed;
+    position: relative;
+    top: -55px;
+    font-size: 40px;
+    border: 10px solid rgb(247, 251, 254);
+    background-color: rgb(247, 251, 254);
+}
+
+.ayrac2{
+    border: none;
+    border-top: 3px solid rgb(0, 0, 0);
+    max-width: 800px;
+    margin: 25px auto;
+}
+
+.igri{
+    color: #efc9ed;
+    position: relative;
+    top: -55px;
+    font-size: 40px;
+    border: 10px solid rgb(255, 255, 255);
+    background-color: rgb(255, 255, 255);
+}
